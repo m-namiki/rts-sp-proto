@@ -1,0 +1,6 @@
+[submodule "rts-sp-proto_cl"]
+	path = rts-sp-proto_cl
+	url = https://github.com/Shiki-777/rts-sp-proto_cl.git
+[submodule "rts-sp-proto_sv"]
+	path = rts-sp-proto_sv
+	url = https://github.com/m-namiki/rts-sp-proto_sv.git
